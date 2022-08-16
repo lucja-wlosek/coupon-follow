@@ -1,0 +1,8 @@
+{
+  "name": "coupon-follow",
+  "version": "1.0.0",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "typescript": "^4.7.4"
+  }
+}
